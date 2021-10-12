@@ -1,0 +1,16 @@
+C:\Users\yara.mustafa\Documents\programering\why loop\bin\Debug\net5.0\why loop.exe
+C:\Users\yara.mustafa\Documents\programering\why loop\bin\Debug\net5.0\why loop.deps.json
+C:\Users\yara.mustafa\Documents\programering\why loop\bin\Debug\net5.0\why loop.runtimeconfig.json
+C:\Users\yara.mustafa\Documents\programering\why loop\bin\Debug\net5.0\why loop.runtimeconfig.dev.json
+C:\Users\yara.mustafa\Documents\programering\why loop\bin\Debug\net5.0\why loop.dll
+C:\Users\yara.mustafa\Documents\programering\why loop\bin\Debug\net5.0\ref\why loop.dll
+C:\Users\yara.mustafa\Documents\programering\why loop\bin\Debug\net5.0\why loop.pdb
+C:\Users\yara.mustafa\Documents\programering\why loop\obj\Debug\net5.0\why loop.csproj.AssemblyReference.cache
+C:\Users\yara.mustafa\Documents\programering\why loop\obj\Debug\net5.0\why loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yara.mustafa\Documents\programering\why loop\obj\Debug\net5.0\why loop.AssemblyInfoInputs.cache
+C:\Users\yara.mustafa\Documents\programering\why loop\obj\Debug\net5.0\why loop.AssemblyInfo.cs
+C:\Users\yara.mustafa\Documents\programering\why loop\obj\Debug\net5.0\why loop.csproj.CoreCompileInputs.cache
+C:\Users\yara.mustafa\Documents\programering\why loop\obj\Debug\net5.0\why loop.dll
+C:\Users\yara.mustafa\Documents\programering\why loop\obj\Debug\net5.0\ref\why loop.dll
+C:\Users\yara.mustafa\Documents\programering\why loop\obj\Debug\net5.0\why loop.pdb
+C:\Users\yara.mustafa\Documents\programering\why loop\obj\Debug\net5.0\why loop.genruntimeconfig.cache
